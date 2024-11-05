@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Niku05
+- 👋 Hi, I’m @Niku05-code
 - 🌱 I’m currently learning a lot of stufs
 - 💞️ I’m looking to collaborate on any aplications
 - 📫 How to reach me: Instagram - @sergiuniculcea, LinkedIn - Sergiu Niculcea
