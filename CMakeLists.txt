@@ -3,11 +3,11 @@ project(P2)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(P2 main.cpp
+add_executable(main.cpp
         Student.h
         Student.cpp
-        cmake-build-debug/student.txt
         Status.cpp
         Status.h
         Date.cpp
-        Date.h)
+        Date.h
+        main.cpp)
