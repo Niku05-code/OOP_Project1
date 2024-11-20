@@ -44,7 +44,6 @@ int main()
         std::cout << std::endl;
     }
 
-    std::cout << "Commit" << std::endl;
 
     return 0;
 }
